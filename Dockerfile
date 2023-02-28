@@ -6,7 +6,7 @@ COPY . .
 
 RUN npm install
 
-ENV PORT=3030
+ENV PORT=3080
 
 EXPOSE 3080
 
